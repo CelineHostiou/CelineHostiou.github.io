@@ -1,0 +1,42 @@
+.main {
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 10vw;
+    margin-bottom: 10vw;
+    font-family:"palatino linotype", palatino, serif;
+}
+
+
+body
+{
+    background-color: white;
+    color: black; 
+}
+
+.en-tête {
+	font: Futura;
+	color: teal;
+}
+
+.titre {
+    text-align: center;
+    font: bold 15px  Calibri; 
+    color: maroon;
+    margin-right: 1px;   
+    text-decoration: none;
+    border-width: 1px;
+ 	border-style: outset;
+ 	border-color: black;
+}
+
+.sous-titre {
+	font: Cambria;
+	color: green;
+}
+
+.iframe-container {
+	text-align:center;
+    margin-right: auto;
+    margin-left: auto;
+  	width:100%;
+}
